@@ -1,4 +1,4 @@
-<h1 align="center">I'm iTraed</h1>
+<h1 align="center">I'm Traed</h1>
 <h3 align="center">Student and beginner developer</h3>
 <p><img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRtZHQ3c2Y4b2M0NjMyYzR6c252eWZ6djczZG1zMm9ienhhd2h4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif" alt="giphy" /></p>
 
