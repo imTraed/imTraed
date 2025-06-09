@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Traed</h1>
 <h3 align="center">Student and beginner developer</h3>
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
-## Languages
 
+## Languages:
 <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
 
 ## Connect with me:
