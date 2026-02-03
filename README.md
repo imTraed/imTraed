@@ -56,10 +56,6 @@ I am an **Engineering Student** and **Full Stack Developer** focused on building
 ---
 
 ### GitHub Activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imTraed&layout=compact&hide_border=true&theme=darcula&bg_color=transparent&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
-</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
