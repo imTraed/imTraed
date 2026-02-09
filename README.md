@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Python Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/imTraed?tab=repositories">
+  <a href="https://imtraed.github.io/">
     <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:joshua1756j@gmail.com">
